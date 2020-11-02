@@ -1,0 +1,8 @@
+.feature-image {
+    width: 250px;
+    height: 250px;
+}
+
+.truncate {
+    overflow-wrap: break-word;
+}
